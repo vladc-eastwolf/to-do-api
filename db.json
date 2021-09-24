@@ -1,7 +1,7 @@
 {
   "todos": [
-    { "id": 1, "title": "Title 1" },
-    { "id": 2, "title": "Title 2" },
-    { "id": 3, "title": "Title 3" }
+    { "id": 1, "title": "Title 1", "description": "This is some random description for todo 1", "isFinished": false },
+    { "id": 2, "title": "Title 2" "description": "This is some random description for todo 2", "isFinished": false },
+    { "id": 3, "title": "Title 3" "description": "This is some random description for todo 3", "isFinished": false }
   ]
 }
