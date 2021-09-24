@@ -1,14 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "todos":[
+      {
+         "id":1,
+         "title":"To do 1",
+         "description":"Description for to do 1",
+         "isFinished":false
+      },
+      {
+         "id":2,
+         "title":"To do 2",
+         "description":"Description for to do 2",
+         "isFinished":false
+      },
+      {
+         "id":3,
+         "title":"To do 3",
+         "description":"Description for to do 3",
+         "isFinished":false
+      },
+      {
+         "id":4,
+         "title":"To do 4",
+         "description":"Description for to do 4",
+         "isFinished":false
+      },
+      {
+         "id":5,
+         "title":"To do 5",
+         "description":"Description for to do 5",
+         "isFinished":false
+      },
+      {
+         "id":6,
+         "title":"To do 6",
+         "description":"Description for to do 6",
+         "isFinished":false
+      }
+   ]
 }
